@@ -28,8 +28,11 @@ Crie um programa chamado `calculadora.py`, que recebe **dois números inteiros**
 Por exemplo, se os números recebidos como entradas forem `2` e `2`, o seu programa deve mostrar como saídas algo parecido com: 
 
 > A soma de 2 e 2 eh 4
+>
 > A subtracao de 2 e 2 eh 0
+>
 > A multiplicacao de 2 e 2 eh 4
+>
 > A divisao de 2 e 2 eh 1
 
 ## Exercício 3 
