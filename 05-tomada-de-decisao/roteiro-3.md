@@ -35,11 +35,11 @@ A família Bolseirinho tinha 5 filhos:
 
 Escreva um programa que recebe um número inteiro e que mostra, como saída, o nome do filho correspondente ao número recebido. Por exemplo, se o programa receber o número 3, ele deve mostrar como saída: 
 
-> O terceiro filho da família Bolseirinho é o Zezeco.
+> O terceiro filho da familia Bolseirinho eh o Zezeco.
 
 **Desafio:** se um número maior do que o número de filhos da família Bolseirinho for recebido como entrada, o programa deve mostrar como saída: 
 
-> O número digitado é maior do que o número de filhos da família Bolseirinho!
+> O numero digitado eh maior do que o numero de filhos da familia Bolseirinho!
 
 ## Exercício 5 (contém desafio)
 
