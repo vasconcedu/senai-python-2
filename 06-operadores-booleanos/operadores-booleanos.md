@@ -2,7 +2,7 @@
 
 Operadores Booleanos são operadores que operam valores lógicos, também chamados de "Booleanos": os valores `True` e `False`.
 
-> :warning: **ATENÇÃO:** lembre-se de que comparações resultam em Booleanos! Por exemplo, `1 == 1` resulta em `True`, porque a condição avaliada (i.e. se o número `1` é igual ao número `1`) é verdadeira. Da mesma forma, `1 != 1` resulta em `False`, porque a condição avaliada (i.e. se o número `1` é igual ao número `2`) é falsa. 
+> :warning: **ATENÇÃO:** lembre-se de que comparações resultam em Booleanos! Por exemplo, `1 == 1` resulta em `True`, porque a condição avaliada (i.e. se o número `1` é igual ao número `1`) é verdadeira. Da mesma forma, `1 != 1` resulta em `False`, porque a condição avaliada (i.e. se o número `1` é diferente do número `1`) é falsa. 
 
 ## or
 
