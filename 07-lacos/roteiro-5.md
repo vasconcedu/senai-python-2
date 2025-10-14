@@ -23,3 +23,15 @@ Caso o usuário digite qualquer outra entrada além dos 4 comandos acima, o seu 
 
 > Obs.: para os comandos de `deposito` e `saque`, lembre-se de verificar se os valores fornecidos pelo usuário são válidos (i.e. se são maiores do que `0`).
 
+## Exercício 2
+
+Escreva um programa chamado `adivinhacao.py`, que implementa um jogo da adivinhação de números.
+
+O seu programa deve gerar um número pseudoaleatório de 1 a 100 _**(o professor vai explicar como fazer essa parte!)**_, e o jogador vai ter 10 tentativas para adivinhar qual foi o número que o programa gerou.
+
+Após cada tentativa:
+
+- Se o jogador tiver acertado o número, o programa deve informar que o jogador ganhou e encerrar;
+- Se o jogador tiver errado o número, mas ainda tiver tentativas restantes, o programa deve informar ao jogador que ele errou e quantas tentativas restantes ele ainda tem. O programa deve informar, ainda, se o palpite foi muito alto ou se foi muito baixo e solicitar que o jogador tente novamente;
+- Já se o jogador tiver errado o número e não tiver mais tentativas restantes, o programa deve informar ao jogador que ele perdeu e encerrar.
+
