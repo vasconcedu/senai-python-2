@@ -2,7 +2,7 @@
 
 ## Exercício 1
 
-O arquivo `ex-2.py` contém a base de um programa de cadastro de alunos.
+O arquivo `ex-1.py` contém a base de um programa de cadastro de alunos.
 
 Revise o código e execute o programa uma vez para testá-lo e entender o seu funcionamento.
 
