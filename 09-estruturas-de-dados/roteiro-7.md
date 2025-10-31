@@ -17,7 +17,7 @@ Em seguida, modifique o programa para implementar as operações de cadastro, ut
 
     > 🚨 ATENÇÃO: se o nome fornecido pelo usuário não existir na lista de cadastro, o programa deve mostrar essa informação na tela!
 
-    > 💡 Dica: você pode usar `range(0, len(alunos))` em um laço `for` para iterar sobre a listade cadastro com base nos índices dos alunos.
+    > 💡 Dica: você pode usar `range(0, len(alunos))` em um laço `for` para iterar sobre a lista de cadastro com base nos índices dos alunos.
 
 4. Se o usuário selecionar a operação `4`, o programa deve exibir a lista completa de alunos cadastrados;
 5. Se o usuário selecionar a operação `5`, o programa deve remover todos os alunos da lista.
