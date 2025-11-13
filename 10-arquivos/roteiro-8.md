@@ -2,7 +2,7 @@
 
 Realizar modificações em código que foi escrito por terceiros dispondo de pouca documentação é **muito** comum no mercado de tecnologia. Essa tarefa procura simular uma situação como essa, ao mesmo tempo em que exercitamos conceitos de arquivos.
 
-# Introdução
+## Introdução
 
 <img src="engenheiro-de-software.png" height="150px">
 
@@ -12,23 +12,23 @@ O seu chefe pediu que você fizesse algumas modificações na Meus Gastos, uma d
 
 Só tem alguns pequenos probleminhas: até há pouco tempo atrás, você nem sabia da existência dessa aplicação, o engenheiro responsável por ela saiu da empresa há mais de 6 meses, ninguém sabe muito bem como ela funciona e o que é pior: o seu prazo para finalizar as modificações é **hoje,** porque o usuário está esperando e o gerente de relacionamento com o cliente havia prometido as modificações para **ontem.**
 
-# Exercício 1 
+## Exercício 1 
 
 Siga as intruções do professor para fazer o setup do ambiente de desenvolvimento.
 
-# Exercício 2
+## Exercício 2
 
 Procure entender a aplicação, respondendo às perguntas abaixo: 
 
 1. O que a aplicação faz? 
-2. Quais são as funcionalidade que a aplicação tem?
+2. Quais são as funcionalidades que a aplicação tem?
 3. Quantas funções o código tem?
 4. De onde vêm os nomes das categorias de gastos que o programa é capaz de cadastrar?
 5. Onde o programa armazena os gastos cadastrados?
 6. Quais estruturas de dados são utilizadas para armazenar os gastos cadastrados?
 7. Qual é o nome da função que realiza o cadastro de um novo gasto?
 
-# Exercício 3
+## Exercício 3
 
 Modifique a Meus Gastos conforme o seu chefe pediu. Ele quer que você implemente as seguintes alterações: 
 
@@ -42,3 +42,4 @@ Modifique a Meus Gastos conforme o seu chefe pediu. Ele quer que você implement
 > 💡 **Dica 2: como implementar a função `limpar_gastos`?**
 > 
 > A implementação da função `limpar_gastos` é muito parecida com a da função `escrever_gastos`, com a diferença de que, para a função `limpar_gastos`, nós queremos escrever no arquivo uma estrutura de dados vazia.
+
